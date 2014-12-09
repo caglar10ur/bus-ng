@@ -57,10 +57,6 @@ handlers:
   static_files: views/home.html
   upload: views/home.html
 
-- url: /kendall
-  static_files: views/kendall.html
-  upload: views/kendall.html
-
 - url: /
   static_files: views/index.html
   upload: views/index.html
